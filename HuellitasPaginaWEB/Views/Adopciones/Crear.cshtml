@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Reportar Perrito Encontrado";
+}
+
+<div class="container mt-4">
+    <h2>📢 Reporta un perrito encontrado</h2>
+
+    <form method="post" asp-action="Crear">
+        <div class="mb-3">
+            <label class="form-label">Tu nombre</label>
+            <input type="text" class="form-control" name="NombreUsuario" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Descripción del perrito</label>
+            <textarea class="form-control" name="Descripcion" rows="4" required></textarea>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Ubicación</label>
+            <input type="text" class="form-control" name="Ubicacion" required />
+        </div>
+        <button type="submit" class="btn btn-success">Enviar</button>
+    </form>
+</div>
