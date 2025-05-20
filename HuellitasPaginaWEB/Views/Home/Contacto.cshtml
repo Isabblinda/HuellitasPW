@@ -1,0 +1,25 @@
+﻿@{
+	ViewData["Title"] = "Adopta Un Perrito";
+
+
+}
+
+<h1> Adopta un perrito </h1>
+<form asp-controller="Home" asp-action="Contacto">
+
+	<div class="mb-3">
+		<label for="nombre" class="form-label"></label>
+		<input type="text" class="form-control" id="nombre" placeholder="Ingresa tu nombre"/>
+	</div>
+	<div class="mb-3">
+		<label for="email" class="form-label">Email</label>
+		<input type="email" class="form-control" id="email" placeholder="Ingresa tu correo electronico" />
+	</div>
+	<div class="mb-3">
+		<label for="nombre" class="form-label"></label>
+		<textarea  class="form-control" id="mensaje" name ="mensaje" placeholder="Descripción del perrito que deseas adoptar" rows="3"></textarea>
+	
+	</div>
+	<button type="submit" class="btn btn-primary">Enviar</button>
+
+</form>

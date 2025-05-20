@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("428cda78-0443-4265-9f54-43eaab515653")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("HuellitasPaginaWEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ede496b572dcff0d934112fd6b19ea67f7944139")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80d1d68a0ee3cd6cd072f9e8d27de15dece86dd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HuellitasPaginaWEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HuellitasPaginaWEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

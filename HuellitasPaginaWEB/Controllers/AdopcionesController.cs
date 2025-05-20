@@ -48,6 +48,8 @@ namespace HuellitasPaginaWEB.Controllers
     {
         public IActionResult Crear()
         {
+           
+
             return View();
         }
     }

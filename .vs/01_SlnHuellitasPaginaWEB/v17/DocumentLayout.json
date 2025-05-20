@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\data\\perritorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\data\\perritorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\servicios\\iservicioemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\servicios\\iservicioemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\models\\contactoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\models\\contactoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\servicios\\servicioemailgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\servicios\\servicioemailgmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\models\\perrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\models\\perrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isago\\AppData\\Roaming\\Microsoft\\UserSecrets\\428cda78-0443-4265-9f54-43eaab515653\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\huellitaspaginaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\huellitaspaginaweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\views\\home\\mensajeexitoso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\views\\home\\mensajeexitoso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\models\\perritoencontrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\models\\perritoencontrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\views\\adopciones\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\views\\adopciones\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\controllers\\perritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\controllers\\perritoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\controllers\\adopcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\controllers\\adopcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|c:\\users\\isago\\source\\repos\\01_slnhuellitaspaginaweb\\huellitaspaginaweb\\views\\perritos\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F61BFEA-6B60-40AE-AAAF-F6C4042ABC2E}|HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj|solutionrelative:huellitaspaginaweb\\views\\perritos\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Perrito.cs",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Models\\Perrito.cs",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Models\\Perrito.cs",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Models\\Perrito.cs",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Models\\Perrito.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAhwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:44:28.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicioEmail.cs",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Servicios\\IServicioEmail.cs",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Servicios\\IServicioEmail.cs",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Servicios\\IServicioEmail.cs",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Servicios\\IServicioEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:09:20.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Models\\ContactoViewModel.cs",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Models\\ContactoViewModel.cs",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Models\\ContactoViewModel.cs",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Models\\ContactoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:05:47.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Program.cs",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Program.cs",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Program.cs",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:28:58.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T02:41:18.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PerritoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Data\\PerritoRepository.cs",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Data\\PerritoRepository.cs",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Data\\PerritoRepository.cs",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Data\\PerritoRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:54:59.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicioEmailGmail.cs",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Servicios\\ServicioEmailGmail.cs",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Servicios\\ServicioEmailGmail.cs",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Servicios\\ServicioEmailGmail.cs",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Servicios\\ServicioEmailGmail.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:12:38.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:38:16.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\isago\\AppData\\Roaming\\Microsoft\\UserSecrets\\428cda78-0443-4265-9f54-43eaab515653\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\428cda78-0443-4265-9f54-43eaab515653\\secrets.json",
+              "ToolTip": "C:\\Users\\isago\\AppData\\Roaming\\Microsoft\\UserSecrets\\428cda78-0443-4265-9f54-43eaab515653\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\428cda78-0443-4265-9f54-43eaab515653\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T04:54:12.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HuellitasPaginaWEB",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj",
+              "RelativeToolTip": "HuellitasPaginaWEB\\HuellitasPaginaWEB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T04:54:00.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\appsettings.Development.json",
+              "RelativeToolTip": "HuellitasPaginaWEB\\appsettings.Development.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T01:28:40.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MensajeExitoso.cshtml",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Home\\MensajeExitoso.cshtml",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Views\\Home\\MensajeExitoso.cshtml",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Home\\MensajeExitoso.cshtml",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Views\\Home\\MensajeExitoso.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T03:26:29.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Home\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Views\\Home\\Contacto.cshtml",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Home\\Contacto.cshtml",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Views\\Home\\Contacto.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T03:37:31.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PerritoEncontrado.cs",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Models\\PerritoEncontrado.cs",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Models\\PerritoEncontrado.cs",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Models\\PerritoEncontrado.cs",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Models\\PerritoEncontrado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:25:17.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T01:38:42.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Adopciones\\Crear.cshtml",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Views\\Adopciones\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Adopciones\\Crear.cshtml",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Views\\Adopciones\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T02:45:28.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PerritosController.cs",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Controllers\\PerritosController.cs",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Controllers\\PerritosController.cs",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Controllers\\PerritosController.cs",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Controllers\\PerritosController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:58:57.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T02:11:48.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdopcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Controllers\\AdopcionesController.cs",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Controllers\\AdopcionesController.cs",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Controllers\\AdopcionesController.cs",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Controllers\\AdopcionesController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:56:18.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Detalles.cshtml",
+              "DocumentMoniker": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Perritos\\Detalles.cshtml",
+              "RelativeDocumentMoniker": "HuellitasPaginaWEB\\Views\\Perritos\\Detalles.cshtml",
+              "ToolTip": "C:\\Users\\isago\\source\\repos\\01_SlnHuellitasPaginaWEB\\HuellitasPaginaWEB\\Views\\Perritos\\Detalles.cshtml",
+              "RelativeToolTip": "HuellitasPaginaWEB\\Views\\Perritos\\Detalles.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T01:03:57.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

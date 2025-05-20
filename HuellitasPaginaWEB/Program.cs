@@ -1,5 +1,6 @@
 using Microsoft.Data.SqlClient;
 using HuellitasPaginaWEB.Data;
+using HuellitasPaginaWEB.Servicios;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +13,7 @@ Console.WriteLine("Configuración cargada:");
 Console.WriteLine($"ConnectionString: {builder.Configuration.GetConnectionString("HuellitasDB")}");
 
 builder.Services.AddControllersWithViews();
+builder.Services.AddTransient<IServicioEmail, ServicioEmailGmail>();
 builder.Services.AddScoped<PerritoRepository>();
 
 // SQL Server
